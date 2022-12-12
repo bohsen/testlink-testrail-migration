@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sections>
+<section>
+<name>1. Miljøkrav</name>
+<cases>
+<case>
+<title>Installation af IBC NM i Windows 10</title>
+<custom>
+<steps_separated>
+<step>
